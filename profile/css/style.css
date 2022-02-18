@@ -82,7 +82,7 @@ p {
 }
 
 .btn-success {
-  background: #e44c65;
+  background: #f5f5f5;
   font-weight: 300;
   letter-spacing: 2px;
   padding: 14px 32px;
@@ -222,7 +222,7 @@ a:hover, a:active, a:focus {
 }
 
 .navbar-default .navbar-brand {
-  color: #304352;
+  color: #0a3f68;
   font-size: 28px;
   font-weight: bold;
   letter-spacing: 2px;
@@ -290,7 +290,7 @@ a:hover, a:active, a:focus {
 
 .navbar-default .navbar-nav > li > a:hover,
 .navbar-default .navbar-nav > li > a:focus {
-    color: #777;
+    color: rgb(212, 64, 64);
     background-color: transparent;
 }
 
